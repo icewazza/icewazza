@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icewazza
 - 👀 I’m interested in UX/UI, Web and Mobile development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working as UX/UI Designer in Kz
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @baiburin_1 (telegram or instagram) 
 
